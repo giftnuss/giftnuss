@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @giftnuss, learning a foreign language is not one my strengths - so please excuse is something is wrong written. 
-- 👀 I’m interested in economics, game theory, mathematics, programming languages and being a kind person.
+- 👋 Hi, I’m @giftnuss, learning a foreign language is not one my strengths - so please excuse if something is misspelled or uses an unusual grammar. 
+- 👀 I’m interested in economics, game theory, mathematics, programming languages and me is trying to be a kind person.
 - 🌱 I’m currently learning teaching informatics.
 - 💞️ I’m looking to collaborate on climate justice.
-- 📫 How to reach me? <3 please Send an email.
+- 📫 How to reach me? <3 please Send an email to news[at]young-workers.de.
 
 Bookmarks:
 * https://wiki.openzim.org/wiki/OpenZIM - offline hypertext documents for the twentyfirst century.
